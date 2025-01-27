@@ -1,17 +1,14 @@
 #!/bin/bash
 
-MODELS=$(ollama list | grep -v '^NAME' | awk '{print $1}' )
+model_name=$1
+output_directory=$2
+input_file=$3
 
-for model in $MODELS
-do
-  banner $model
-  now=$(date +%Y%m%d-%H%M%S)
-  outdir=outputs/$model/$now
-  mkdir -p $outdir
-  cat question.txt > $outdir/question.txt
-  # Warm up
-  /usr/bin/time -o $outdir/warmup.timing ollama run --nowordwrap --verbose $model "$(< question.txt)" | tee $outdir/warmup.txt
-  # Actual
-  /usr/bin/time -o $outdir/hot.timing ollama run --nowordwrap --verbose  $model "$(< question.txt)" | tee $outdir/hot.txt
-done
-
+mkdir -p $output_directory
+banner $model
+# warmup
+ollama run --nowordwrap --verbose $model_name $(< $input_file) 2> $output_directory/warmup.timing | tee $output_directory/warmup.txt
+cat $output_directory/warmup.timing
+# actual
+ollama run --nowordwrap --verbose $model_name $(< $input_file) 2> $output_directory/hot.timing | tee $output_directory/hot.txt
+cat $output_directory/hot.timing

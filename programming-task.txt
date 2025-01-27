@@ -1,25 +1,32 @@
 Write a Python program. It should take an argument --output which will
 be a CSV file it will write to. It should take an argument --sources which is
 a directory -- it should recursively traverse every subdirectory of it looking
-for files that end with .txt . It should ignore files named question.txt for now.
+for files that end with .txt
 
-When it finds one with another name, it should count the words in it. It will
-be a small file. There will also be a file in the same directory with the same 
-name but a .timing filename extension. It's the output from /usr/bin/time, e.g. like this:
+When it finds one, it should count the words in it. It will be a small
+file. There will also be a file in the same directory with the same
+name but a .timing filename extension. Raise an error if there is not.
 
-0.02user 0.01system 2:29.70elapsed 0%CPU (0avgtext+0avgdata 27136maxresident)k
-344inputs+0outputs (4major+3152minor)pagefaults 0swaps
+There will be junk at the beginning of the file, but towards the end of the .timing file it will look like this:
 
-We want to get the time before "elapsed" (e.g. 2:29.70) which is minutes:seconds.centiseconds. 
-It might also be hours:minutes:seconds.  Turn that time into a float of seconds (e.g. 149.70).
+total duration:       2m22.854837895s
+load duration:        1.93574657s
+prompt eval count:    9 token(s)
+prompt eval duration: 359ms
+prompt eval rate:     25.07 tokens/s
+eval count:           1025 token(s)
+eval duration:        2m20.559s
+eval rate:            7.29 tokens/s
 
-Then look for a file called question.txt in the same directory as the .txt and .timing
-files. This file should exist, raise an error if it doesn't. Read it and calculate
-the md5 checksum.
+Each of these can be extracted out with regexes, knowing that "total duration" may not be at the beginning of the line. We will want the contents after the colon (strip whitespace).
 
 It should output a record in the CSV file with columns:
  - the full path of the .txt file
- - the word count
- - the elapsed time in seconds
- - the md5 checksum 
-
+ - the total duration
+ - the load duration
+ - the prompt eval count
+ - the prompt eval duration
+ - the prompt eval rate
+ - the eval count
+ - the eval duration
+ - the eval rate
