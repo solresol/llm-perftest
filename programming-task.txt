@@ -1,0 +1,25 @@
+Write a Python program. It should take an argument --output which will
+be a CSV file it will write to. It should take an argument --sources which is
+a directory -- it should recursively traverse every subdirectory of it looking
+for files that end with .txt . It should ignore files named question.txt for now.
+
+When it finds one with another name, it should count the words in it. It will
+be a small file. There will also be a file in the same directory with the same 
+name but a .timing filename extension. It's the output from /usr/bin/time, e.g. like this:
+
+0.02user 0.01system 2:29.70elapsed 0%CPU (0avgtext+0avgdata 27136maxresident)k
+344inputs+0outputs (4major+3152minor)pagefaults 0swaps
+
+We want to get the time before "elapsed" (e.g. 2:29.70) which is minutes:seconds.centiseconds. 
+It might also be hours:minutes:seconds.  Turn that time into a float of seconds (e.g. 149.70).
+
+Then look for a file called question.txt in the same directory as the .txt and .timing
+files. This file should exist, raise an error if it doesn't. Read it and calculate
+the md5 checksum.
+
+It should output a record in the CSV file with columns:
+ - the full path of the .txt file
+ - the word count
+ - the elapsed time in seconds
+ - the md5 checksum 
+
