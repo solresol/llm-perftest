@@ -12,3 +12,4 @@ cat $output_directory/warmup.timing
 # actual
 ollama run --nowordwrap --verbose $model_name $(< $input_file) 2> $output_directory/hot.timing | tee $output_directory/hot.txt
 cat $output_directory/hot.timing
+git add $output_directory/warmup.txt  $output_directory/warmup.timing  $output_directory/hot.txt  $output_directory/hot.timing
