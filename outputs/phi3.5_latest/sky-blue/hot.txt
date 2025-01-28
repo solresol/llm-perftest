@@ -1,0 +1,8 @@
+The color of the sky appears predominantly blue to human observers because of a phenomenon called Rayleigh scattering. The Earth's atmosphere consists mostly of nitrodictioxide and oxygen, which are made up of molecules that can easily be deflected by incoming sunlight due to their smaller size compared with the wavelength of visible light (about 380-740 nanometers).
+
+When white sunlight enters our atmosphere, it is a mixture of all colors. Shorter blue and violet waves are scattered more efficiently because they're absorbed by these molecules – which means that when you look straight ahead during the daytime (when there’s no obstruction like clouds), your line-of-sight encounters an abundance of those deflected, shortwave light rays.
+
+However, our eyes are less sensitive to violet and some ultraviolet radiation than they are to blue; hence we perceive the sky as a clear cerulean hue instead of purples or blues with hints of white from scattered UV wavelengths – which is why sunsets often appear more red/pink.
+
+The scattering process diminishes further away because it's directly proportional to 1 over the fourth power of photon frequency (wavelength). This means that while both blue and violet are affected, as they have high frequencies(short wavelength), their influence is lessened rapidly with distance from earth’s surface. Hence why in most circumstances during a clear daytime sky's viewing angle the resultant effect we see would be an overwhelming abundance of scattered blue light - thus giving rise to what appears as our daily 'blue skies'.
+

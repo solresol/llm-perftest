@@ -1,0 +1,18 @@
+The sky appears blue because of a phenomenon called Rayleigh scattering, which is named after the British physicist Lord Rayleigh. He discovered that when sunlight enters Earth's atmosphere, it encounters tiny molecules of gases such as nitrogen (N2) and oxygen (O2).
+
+Here's what happens:
+
+1. **Sunlight enters the atmosphere**: Sunlight is made up of a spectrum of colors, including all the colors of the rainbow.
+2. **Encounters tiny gas molecules**: As sunlight travels through the atmosphere, it encounters the tiny molecules of gases like nitrogen and oxygen.
+3. **Scattering occurs**: These small molecules scatter the light in all directions, but they scatter shorter (blue) wavelengths more than longer (red) wavelengths. This is known as Rayleigh scattering.
+4. **Blue light dominates**: As a result of this scattering, the blue light is distributed throughout the atmosphere, giving it a blue appearance.
+5. **Our eyes perceive the blue sky**: When we look up at the sky, our eyes see the scattered blue light, which is why the sky appears blue to us.
+
+There are a few other factors that can affect the color of the sky, such as:
+
+* **Dust and pollution**: Tiny particles in the air can scatter light in different ways, making the sky appear more hazy or gray.
+* **Time of day**: The angle of the sun and the amount of scattering that occurs can change the apparent color of the sky throughout the day.
+* **Atmospheric conditions**: Weather conditions like clouds, fog, or smoke can also alter the appearance of the sky.
+
+But in general, the blue color of the sky is due to the scattering of sunlight by tiny gas molecules in our atmosphere.
+

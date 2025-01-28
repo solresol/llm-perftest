@@ -1,0 +1,30 @@
+The sky appears blue due to a phenomenon called **Rayleigh scattering**. Here's a breakdown:
+
+**1. Sunlight and Earth's Atmosphere:**
+
+* Sunlight consists of all colors of the rainbow. 
+* When this sunlight enters Earth's atmosphere, it encounters air molecules (tiny particles like nitrogen and oxygen).
+
+**2. Scattering of Light:**
+
+* Blue light has a shorter wavelength than other colors in the visible spectrum.  
+* As this blue light interacts with the air molecules, it gets scattered in all directions by these tiny collisions. 
+* This scattering process is called Rayleigh scattering, named after Lord Rayleigh who studied it in the 19th century.
+
+**3. Why Blue:**
+
+* Because blue light is scattered more strongly than other colors by air molecules, it makes up the majority of what we see when looking at the sky.  
+
+ **Why not violet?**
+
+* Violet light actually has an even shorter wavelength than blue light, and it scatters even more strongly. However, our eyes are less sensitive to violet, so we perceive the sky as predominantly blue.
+
+ **Other factors:**
+
+* The time of day also affects the color of the sky.  
+    * At sunrise and sunset, sunlight travels through a thicker layer of atmosphere, leading to increased scattering of all colors, resulting in beautiful hues like orange and red.
+* Clouds, water droplets, or aerosols in the atmosphere can influence the blue appearance of the sky by reflecting and scattering light at different angles.
+
+Let me know if you have any other questions about why we see things the way we do! 
+
+

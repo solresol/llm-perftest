@@ -1,0 +1,8 @@
+<think>
+
+</think>
+
+The sky appears blue because of a phenomenon called Rayleigh scattering. When sunlight travels through the atmosphere, it encounters molecules of gases such as nitrogen and oxygen. These molecules scatter the light in all directions, but smaller wavelengths (like blue and violet) are scattered more intensely than larger wavelengths (like red and orange). This is why the sky typically appears blue during the day.
+
+At sunrise and sunset, the sky often turns red or orange because the sunlight has to pass through a thicker layer of the atmosphere. By this time, much of the blue light has already been scattered out of the line of sight, leaving mainly longer wavelengths like red and orange to dominate.
+

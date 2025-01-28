@@ -1,0 +1,2 @@
+[?25l⠙ [?25h[?25l[2K[1G⠹ [?25h[?25l[2K[1G⠸ [?25h[?25l[2K[1G⠼ [?25h[?25l[2K[1G⠴ [?25h[?25l[2K[1G⠦ [?25h[?25l[2K[1G⠧ [?25h[?25l[2K[1G⠧ [?25h[?25l[2K[1G⠇ [?25h[?25l[2K[1G⠏ [?25h[?25l[2K[1G⠋ [?25h[?25l[?25l[2K[1G[?25h[2K[1G[?25hError: llama runner process has terminated: error loading model: missing tensor 'blk.0.ffn_down_exps.weight'
+llama_load_model_from_file: failed to load model

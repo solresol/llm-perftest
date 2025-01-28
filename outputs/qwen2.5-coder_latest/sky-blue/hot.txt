@@ -1,0 +1,6 @@
+The sky appears blue because of a phenomenon called Rayleigh scattering. When sunlight enters Earth's atmosphere, it encounters gas molecules and tiny particles. As light travels through these substances, shorter wavelength colors like blue and violet scatter more easily than longer wavelengths such as red and orange.
+
+Because our eyes are more sensitive to blue light, we perceive the sky as blue during sunny days. The intensity of this effect can vary depending on atmospheric conditions; for example, on a clear day with minimal air pollution, the sky appears very blue. On hazy or polluted days, other colors like yellow and orange may dominate the sky's appearance because the shorter wavelengths are less likely to be scattered.
+
+Additionally, during sunrise and sunset, the sun is lower in the sky, so its light has to pass through more atmosphere before reaching us. This increased scattering causes all the blue light to be dispersed, leaving the longer wavelength colors like red and orange to dominate our view of the sky at these times.
+

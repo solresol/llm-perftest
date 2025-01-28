@@ -1,0 +1,4 @@
+The sky appears blue due to a phenomenon called Rayleigh scattering. When sunlight enters Earth's atmosphere, it encounters molecules of nitrogen, oxygen, and other particles. Sunlight is made up of different colors, each with its own wavelength. Blue light waves are shorter than other colors, making them scatter more easily in all directions as they collide with the air molecules.
+
+As a result, when you look up at the sky on a clear day, you see the blue light scattered from all parts of the atmosphere. This is why we perceive the sky as blue during the daytime. At sunrise and sunset, however, sunlight has to travel through more of the Earth's atmosphere to reach our eyes. This causes most of the shorter-wavelength colors (including blue) to be scattered away, leaving mostly longer wavelengths like red, orange, and yellow, which is why we see those colors at sunrise and sunset.
+

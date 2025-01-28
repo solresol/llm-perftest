@@ -1,0 +1,10 @@
+The color of the sky as we perceive it—blue—is primarily due to a phenomenon called Rayleigh scattering. This occurs when sunlight enters Earth's atmosphere and interacts with molecules and small particles present in the air.
+
+Sunlight, or white light, is composed of multiple colors, each corresponding to different wavelengths. Blue light has shorter wavelengths (about 450-495 nanometers) compared to other visible colors like red and yellow, which have longer wavelengths. When sunlight hits the gases and particles in Earth's atmosphere, these shorter blue wavelengths are scattered in all directions more effectively than the longer wavelengths.
+
+Rayleigh scattering is inversely proportional to the fourth power of the wavelength. This means that as the wavelength gets shorter (as with blue light compared to red), the amount of scattering increases dramatically. As a result, when we look up at the sky, we see scattered blue light coming from all directions.
+
+On the other hand, during sunrise and sunset, the sun is lower on the horizon, and sunlight has to pass through more of Earth's atmosphere before reaching us. This increased distance causes even more scattering of shorter wavelengths, removing much of the blue and green light. The longer red and orange wavelengths are scattered less and can travel further through the atmosphere, giving the sky its reddish or golden hues during these times.
+
+In summary, the blue color of the sky is due to Rayleigh scattering, where shorter blue wavelengths are scattered more than other colors in Earth's atmosphere when sunlight interacts with air molecules.
+

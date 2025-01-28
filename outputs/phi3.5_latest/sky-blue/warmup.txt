@@ -1,0 +1,14 @@
+The color of the sky appears predominantly blue to human observers due primarily to a phenomenon called Rayleigh scattering. Here’s how it works:
+
+1. **Sunlight Composition**: Sunlight consists of all colors (wavelengths) within the visible spectrum, which combine to form white light when mixed together. Each color has its own wavelength and energy level associated with it — for example, blue light has shorter wavelengths than red or yellow sunshine does.
+
+2. **Atmospherim Interaction**: As sunlight passes through the Earth’s atmosphere, which is composed of various gases along with small particles like water droplets and dust, it collides frequently with these molecules—this interaction causes light to scatter in all directions; a process called elastic scattering.
+
+3. **Wavelength Dependent Scatter**: According to Rayleigh’s scattering theory proposed by John Tyndall (1869), shorter wavelengths of light are scattered more efficiently than longer ones, because the intensity of this effect is inversely proportional to the fourth power of the wavelength. This means that blue and violet waves get diffused much wider across all directions when they collide with air molecules compared to red or yellow which gets through less noticeably dispersed (scattering).
+
+4. **Visual Perception**: However, our eyes are more sensitive to some parts of the spectrum than others — mainly between green and blue light ranges – leading us to perceive a predominantly bluish sky rather than violet or any other color being scattered during daylight hours (since we don’t typically see purple outside due its higher energy).
+
+5. **Sun's Position**: Lastly, when the sun is high in the atmosphere – like around noon-time - it appears more blue and white because that part of sky contains most scattered shorter wavelength light (blue+white), while red hues might dominate at dawn or dusk due to angle positioning changes relative scatter.
+
+Summarily, these interactions between sunlight's full spectrum colors along with our eyes’ color sensitivity combine together for us observing a blue-hued sky most of the time during daytime hours under clear conditions!
+

@@ -1,0 +1,10 @@
+<think>
+
+</think>
+
+The sky appears blue because of a phenomenon called Rayleigh scattering. When sunlight travels through the Earth's atmosphere, it interacts with molecules and small particles in the air. Sunlight is composed of various colors, each corresponding to different wavelengths. Blue light has a shorter wavelength compared to other colors like red or orange.
+
+According to Rayleigh scattering, shorter wavelengths (like blue) are scattered more efficiently by the gases in the atmosphere, primarily nitrogen and oxygen. This scattering occurs in all directions, which is why we see the sky as blue during the daytime when sunlight is present. At sunrise and sunset, the light has to travel through a greater thickness of the atmosphere, so much of the blue light is scattered away, leaving mainly longer wavelengths like red and orange, which is why these times often have spectacular "golden hours."
+
+This explanation was first proposed by Lord Rayleigh in the late 19th century and later expanded upon by Einstein in 1911.
+
